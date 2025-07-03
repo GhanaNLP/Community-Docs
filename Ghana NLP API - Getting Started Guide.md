@@ -23,7 +23,7 @@ To start using the Ghana NLP APIs:
 - API documentation: [https://translation.ghananlp.org/apis](https://translation.ghananlp.org/apis)  
 - API usage guide and blog: [Build with Ghana NLP](https://pkwolffe.hashnode.dev/series/build-with-ghananlp)
 
-For technical questions, contact **@Prince Larbi**.
+For technical questions, contact **@Joel Budu** on the Slack.
 
 ---
 

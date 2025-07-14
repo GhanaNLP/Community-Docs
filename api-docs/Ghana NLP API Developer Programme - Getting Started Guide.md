@@ -20,8 +20,11 @@ To start using the Ghana NLP APIs:
 
 ## Explore the API
 
-- API documentation: [https://translation.ghananlp.org/apis](https://translation.ghananlp.org/apis)  
-- API usage guide and blog: [Build with Ghana NLP](https://pkwolffe.hashnode.dev/series/build-with-ghananlp)
+API documentation: 
+- [GhanaNLP Automatic Speech Recognition API v1](api-docs/GhanaNLP Automatic Speech Recognition API v1.md) 
+- [GhanaNLP Automatic Speech Recognition API v2](api-docs/GhanaNLP Automatic Speech Recognition API v2.md)
+- [GhanaNLP Text-to-Speech API](api-docs/GhanaNLP Text-to-Speech API.md)
+- [GhanaNLP Translation REST API](api-docs/GhanaNLP Translation REST API.md)
 
 For technical questions, contact **@Joel Budu** on Slack.
 

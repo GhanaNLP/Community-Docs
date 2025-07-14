@@ -1,6 +1,6 @@
 # Ghana NLP API Developer Programme – Getting Started Guide
 
-This guide helps developers quickly get started with the Ghana NLP API platform. It covers how to create an account, subscribe to a developer plan, access API documentation, and prepare for an optional demo session. If you're building projects that involve local language translation, speech, or text processing, this guide is your first step.
+This guide helps developers quickly get started with the Ghana NLP API platform and prepare for participating in the API developer programme. It covers how to create an account, subscribe to a developer plan, access API documentation, and prepare for an optional demo session. If you're building projects that involve local language translation, speech, or text processing, this guide is your first step.
 
 ---
 

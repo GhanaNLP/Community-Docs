@@ -20,7 +20,9 @@ To start using the Ghana NLP APIs:
 
 ## Explore the API
 
-API documentation: 
+Read the API documentation here: https://translation.ghananlp.org/apis 
+
+Supplementary API documentation: 
 - [GhanaNLP Automatic Speech Recognition API v1](GhanaNLP%20Automatic%20Speech%20Recognition%20API%20v1.md)
 - [GhanaNLP Automatic Speech Recognition API v2](GhanaNLP%20Automatic%20Speech%20Recognition%20API%20v2.md)
 - [GhanaNLP Text-to-Speech API](GhanaNLP%20Text-to-Speech%20API.md)

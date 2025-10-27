@@ -4,7 +4,7 @@ Our community thrives on contributions. By contributing, you help build resource
 
 ## How to Contribute
 
-Contribute through our **Nsanku project**:  
+Contribute to our **Nsanku project**:  
 [https://github.com/GhanaNLP/nsanku/tree/main](https://github.com/GhanaNLP/nsanku/tree/main)
 
 **Steps to contribute:**
